@@ -1,0 +1,23 @@
+.wrap {
+    margin: 0 auto;
+    padding: 0;
+    width: 1000px;
+}
+
+#topMenu {
+        height: 60px;
+}
+    #topLinks {
+        float: right;
+        padding-top: 20px;
+}
+
+#topLinks ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#topLinks li {
+    float: left;
+}
